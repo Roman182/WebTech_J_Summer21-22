@@ -1,0 +1,48 @@
+<style>
+body {font-family: Arial, Helvetica, sans-serif;}
+form {border: 3px solid #f1f1f1;}
+
+
+button:hover {
+  opacity: 0.4;
+  color: white;
+  background-color:#008b8b;
+  
+}
+
+
+button {
+  background-color: #04AA6D;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+}
+
+
+.imgcontainer {
+  text-align: right;
+
+  margin: 24px 0 12px 0;
+}
+
+img.avatar {
+  width: 20%;
+  border-radius: 50%;
+}
+
+.container {
+  padding: 16px;
+  background-color:#778899;
+}
+
+
+.all{
+    width: 60%;
+
+
+}
+
+</style>

@@ -1,0 +1,54 @@
+<style>
+body {font-family: Arial, Helvetica, sans-serif;}
+form {border: 3px solid #f1f1f1;}
+
+
+button:hover {
+  opacity: 0.4;
+  color: white;
+  background-color:#008b8b;
+  
+}
+
+
+button {
+  background-color: #04AA6D;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 50%;
+}
+
+
+.imgcontainer {
+  text-align: right;
+
+  margin: 50px 30 50px 0;
+}
+
+img.avatar {
+  width: 35%;
+   height: 35%;
+
+ 
+}
+
+.container {
+  padding: 16px;
+ 
+}
+
+
+.all{
+   
+    background-color: LightBlue;
+    margin: 100px;
+    padding: 100px;
+   
+
+
+}
+
+</style>
